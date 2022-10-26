@@ -1,0 +1,3 @@
+if AGV := true
+AGV.goto(track)
+end
